@@ -1,8 +1,9 @@
+import HomeSection from './components/HomeSection';
 
 function App() {
   return (
     <div className='App'>
-      <h1>Hello</h1>
+      <HomeSection />
     </div>
   );
 }
