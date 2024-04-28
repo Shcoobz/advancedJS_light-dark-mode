@@ -1,4 +1,4 @@
-const HomeSection = () => {
+function Home() {
   return (
     <section id='home'>
       <div className='title-group'>
@@ -7,6 +7,6 @@ const HomeSection = () => {
       </div>
     </section>
   );
-};
+}
 
-export default HomeSection;
+export default Home;
