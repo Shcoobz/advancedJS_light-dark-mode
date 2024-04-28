@@ -173,14 +173,15 @@ p {
 }
 
 /* Contact Section */
-.fab {
+.social-icons .fa-svg {
   font-size: 100px;
   margin-right: 50px;
   cursor: pointer;
   color: var(--primary-color);
+  transition: color 0.3s;
 }
 
-.fab:hover {
+.social-icons .fa-svg:hover {
   color: var(--on-background);
 }
 
