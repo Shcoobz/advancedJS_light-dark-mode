@@ -1,3 +1,6 @@
+/**
+ * About renders the about section, showcasing different illustrations and descriptions.
+ */
 function About() {
   return (
     <section id='about'>

@@ -5,6 +5,10 @@ import About from './components/pages/About';
 import Projects from './components/pages/Projects';
 import Contact from './components/pages/Contact';
 
+/**
+ * App is the root component of the application that assembles all the main sections
+ * including navigation, theme switching, and various content sections.
+ */
 function App() {
   return (
     <div className='App'>

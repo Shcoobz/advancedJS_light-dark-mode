@@ -1,3 +1,6 @@
+/**
+ * Home renders the home section of the website, typically including a welcoming title and subtitle.
+ */
 function Home() {
   return (
     <section id='home'>

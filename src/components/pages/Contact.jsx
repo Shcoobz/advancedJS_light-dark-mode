@@ -8,6 +8,9 @@ import {
   faYoutube,
 } from '@fortawesome/free-brands-svg-icons';
 
+/**
+ * Contact renders the contact section, displaying social media icons for connectivity.
+ */
 function Contact() {
   return (
     <section id='contact'>

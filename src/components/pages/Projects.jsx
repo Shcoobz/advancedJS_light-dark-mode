@@ -1,3 +1,6 @@
+/**
+ * Projects renders the projects section, showcasing various styled buttons and a descriptive text box.
+ */
 function Projects() {
   return (
     <section id='projects'>
