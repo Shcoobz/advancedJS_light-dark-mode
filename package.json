@@ -1,5 +1,5 @@
 {
-  "name": "react_light-dark-mode",
+  "name": "advancedJS_light-dark-mode",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://shcoobz.github.io/react_light-dark-mode/",
+  "homepage": "https://shcoobz.github.io/advancedJS_light-dark-mode/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",

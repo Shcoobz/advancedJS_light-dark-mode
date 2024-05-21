@@ -1,14 +1,14 @@
-# react_Light Dark Mode: [LIVE DEMO](https://shcoobz.github.io/react_light-dark-mode/)
+# advancedJS_Light Dark Mode: [LIVE DEMO](https://shcoobz.github.io/advancedJS_light-dark-mode/)
 
-![react_Light Dark Mode](assets/react_light-dark-mode_light.png)
+![advancedJS_Light Dark Mode](assets/advancedJS_light-dark-mode_light.png)
 
 <br>
 
-![react_Light Dark Mode](assets/react_light-dark-mode_dark.png)
+![advancedJS_Light Dark Mode](assets/advancedJS_light-dark-mode_dark.png)
 
 ## Summary
 
-react_light-dark-mode provides a dynamic theme switching capability for web applications. It features an intuitive toggle switch that allows users to switch between light and dark modes seamlessly.
+advancedJS_light-dark-mode provides a dynamic theme switching capability for web applications. It features an intuitive toggle switch that allows users to switch between light and dark modes seamlessly.
 
 The core functionality includes:
 
@@ -45,6 +45,6 @@ Content sections like Home, About, Projects, and Contact are dynamically rendere
 
 ---
 
-_Note: This document provides an overview of react_light-dark-mode. For detailed instructions and more information, please refer to the source code documentation._
+_Note: This document provides an overview of advancedJS_light-dark-mode. For detailed instructions and more information, please refer to the source code documentation._
 
 _This project is a conversion from an earlier version built with vanilla JavaScript and HTML, available [here](https://github.com/Shcoobz/basicJS_light-dark-mode/). This conversion integrates React to enhance UI reactivity and maintainability._

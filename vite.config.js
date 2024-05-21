@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/react_light-dark-mode/',
+  base: '/advancedJS_light-dark-mode/',
   build: {
     outDir: 'build',
   },
